@@ -1,8 +1,7 @@
 # Hello, I'm Vishal Tak!
 
 ## Data Engineer | SQL Expert | Python Developer | Cloud Enthusiast
-
-![Banner Image](https://via.placeholder.com/1000x300.png?text=Data+Engineering+with+SQL,+Python,+PySpark,+AWS)  <!-- Replace with your actual banner image link -->
+![banner](https://github.com/Sr-Data-Engineer/V4VT/assets/125980491/fed2a60f-c3a4-40b4-950f-448545866bd0)
 
 Welcome to my GitHub profile! I specialize in data engineering and love turning data into insights and action. Below is a snapshot of my skills and some projects I'm proud of.
 
