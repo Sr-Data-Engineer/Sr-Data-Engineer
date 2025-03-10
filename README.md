@@ -33,7 +33,7 @@ Here are a few highlights of my projects. Check out the repositories for more de
 ### 📫 How to Reach Me
 
 - **Email**: itakvishal@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/-vishaltak)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/-vishaltak/)
 
 ### ⚡ Fun Fact
 I love exploring the latest technology trends and am always on the lookout for new challenges in the data sphere!
