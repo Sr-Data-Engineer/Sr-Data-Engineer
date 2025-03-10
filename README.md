@@ -20,6 +20,12 @@ Here are a few highlights of my projects. Check out the repositories for more de
 - **Analytics Dashboard**: Developed a Python-based analytics tool to process and visualize data, enhancing decision-making processes.
 - **Automated Data Pipeline**: Implemented a data pipeline using PySpark and AWS to streamline data ingestion and processing.
 
+### 📌 Featured Project: Formula 1 Data Pipeline
+🏎 **[Formula1-Data-Pipeline](https://github.com/Sr-Data-Engineer/Formula1-Data-Pipeline)**  
+📊 **Technologies Used:** Python, PySpark, Databricks, Delta Lake  
+🔍 **Description:** A scalable data pipeline to analyze Formula 1 standings using Medallion Architecture.  
+🚀 **Check it out:** [Formula 1 Data Pipeline Repository](https://github.com/Sr-Data-Engineer/Formula1-Data-Pipeline)
+
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sr-Data-Engineer&show_icons=true)  <!-- Replace 'yourusername' with your actual GitHub username -->
